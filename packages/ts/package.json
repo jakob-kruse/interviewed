@@ -1,0 +1,13 @@
+{
+  "name": "@interviewed/ts",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0",
+    "vitest": "^0.6.0"
+  }
+}
